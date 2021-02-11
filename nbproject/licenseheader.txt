@@ -1,0 +1,11 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}------------------------------------------------- 
+${licensePrefix} Javier Hernández Santos	                              
+${licensePrefix} 70830423-Z                                                                       
+${licensePrefix} Universidad de Salamanca 2020-2021              
+${licensePrefix}------------------------------------------------- 
+<#if licenseLast??>
+${licenseLast}
+</#if>
